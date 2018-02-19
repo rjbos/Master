@@ -14,7 +14,7 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
     url = "/about/"
 [[menu.main]]
     name = "GitHub"
-    url = "https://github.com/rjbos2"
+    url = "https://github.com/rjbos"
 [[menu.main]]
     name = "Eagle Project"
     url = "/eagle/"
