@@ -1,0 +1,22 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1519068664027.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "8DA75350",
+    "lastKnownWriteTime" : 1519068874,
+    "last_content_update" : 1519068874680,
+    "path" : "~/rj_eagle_website/config.toml",
+    "project_path" : "config.toml",
+    "properties" : {
+        "cursorPosition" : "32,0",
+        "scrollLine" : "24"
+    },
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "toml"
+}
