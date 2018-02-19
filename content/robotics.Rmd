@@ -1,9 +1,0 @@
----
-title: "Robotics"
-author: "RJ Bos"
-date: "2/19/2018"
-output: html_document
----
-
-## Robotics
-
