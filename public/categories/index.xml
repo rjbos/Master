@@ -6,9 +6,37 @@
     <description>Recent content in Categories on RJ&#39;s Eagle Project</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
+    <lastBuildDate>Mon, 19 Feb 2018 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/categories/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Birds</title>
+      <link>/categories/birds/</link>
+      <pubDate>Mon, 19 Feb 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/categories/birds/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Eagle</title>
+      <link>/categories/eagle/</link>
+      <pubDate>Mon, 19 Feb 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/categories/eagle/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Nonprofits</title>
+      <link>/categories/nonprofits/</link>
+      <pubDate>Mon, 19 Feb 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/categories/nonprofits/</guid>
+      <description></description>
+    </item>
     
   </channel>
 </rss>
