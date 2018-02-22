@@ -1,6 +1,6 @@
 ---
 title: "Eagle Project"
-date: "2/19/2018"
+date: "2018-02-22"
 ---
 
 My name is RJ Bos and I am a life scout working towards Eagle.
