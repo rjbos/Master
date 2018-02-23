@@ -20,7 +20,8 @@ My project is *Safety and Security* for Christine Critters.  It consists of thre
  
 I am going to fund this project with the proceeds from a Trini Dinner to be held on March 17th at Norfield Parish Hall at 64 Norfield Road, Weston CT.
 
-If you would like to attend this dinner, please register using this [Survey Monkey](https://www.surveymonkey.com/r/QK6FXJD) link.
+I am shooting for **60** people and so far I have about **25** signed up.  If you would like to attend this dinner, please register using this [Survey Monkey](https://www.surveymonkey.com/r/QK6FXJD) link.
+
 
 If you have not yet decided, here are some more details:
 
