@@ -10,7 +10,4 @@ My project is *Safety and Security* for Christine Critters.  It consists of thre
  - Installing a recorded camera system
  - Doubling the size of the current turkey pen
  
-I am going to fund this project with the proceeds from a Trini Dinner to be held on March 17th at Norfield Parish Hall at 64 Norfield Road, Weston CT.
-
-If you would like to attend this dinner, please register using this Survey Monkey link.
-
+Here is a timeline of my Eagle project progress to date:

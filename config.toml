@@ -10,24 +10,29 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
     post = "/:year/:month/:day/:slug/"
 
 [[menu.main]]
-    name = "About"
-    url = "/about/"
+    name = "Home"
+    url = "/"
     weight = 1
 
 [[menu.main]]
-    name = "GitHub"
-    url = "https://github.com/rjbos"
-    weight = 4
-
-[[menu.main]]
-    name = "Eagle Project"
-    url = "/eagle/"
-    weight = 3
+    name = "About"
+    url = "/about/"
+    weight = 2
 
 [[menu.main]]
     name = "Robotics"
     url = "/robotics/"
-    weight = 2
+    weight = 3
+
+[[menu.main]]
+    name = "Eagle Project"
+    url = "/eagle/"
+    weight = 4
+
+[[menu.main]]
+    name = "GitHub"
+    url = "https://github.com/rjbos"
+    weight = 5
 
 [params]
     description = "A website built through Hugo and blogdown."
@@ -42,8 +47,8 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
     MathJaxVersion = "2.7.1"
 
     [params.logo]
-    url = "logo.png"
+    url = "rj_logo.png"
     width = 50
     height = 50
-    alt = "Logo"
+    alt = "RJ"
 
