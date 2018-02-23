@@ -1,9 +1,10 @@
-baseurl = "/"
+baseurl = "www.eagle.rogerjbos.com/"
 languageCode = "en-us"
-title = "RJ's Eagle Project"
+title = "RJ Bos' Eagle Project"
 theme = "hugo-lithium-theme"
 googleAnalytics = ""
 disqusShortname = ""
+
 ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
 
 [permalinks]
@@ -35,7 +36,7 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
     weight = 5
 
 [params]
-    description = "A website built through Hugo and blogdown."
+    description = "RJ Bos' website built through Hugo and R blogdown."
 
     # options for highlight.js (version, additional languages, and theme)
     highlightjsVersion = "9.11.0"
