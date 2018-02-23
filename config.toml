@@ -1,4 +1,4 @@
-baseurl = "www.eagle.rogerjbos.com/"
+baseurl = "/"
 languageCode = "en-us"
 title = "RJ Bos' Eagle Project"
 theme = "hugo-lithium-theme"
