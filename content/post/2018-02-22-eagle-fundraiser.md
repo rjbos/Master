@@ -52,6 +52,9 @@ This event is a fundraiser to RJ Bos' Eagle project which will provide safety an
  
 ## Details
 Saturday, March 17th, 6:30 PM
+
 Norfield Parish Hall, 64 Norfield Road, Weston CT
+
 Cost: $60 per person
-More information: rjbos2@gmail.com
+
+More information: [rjbos2@gmail.com](mailto:rjbos2@gmail.com)
