@@ -5,21 +5,15 @@ date: "2018-02-22"
 
 My name is RJ Bos and I am a life scout working towards Eagle.
 
-My project is *Safety and Security* for Christine Critters.  It consists of three areas:
-1. Installing a centrally monitored security system with mobile access
-2. Installing a recorded camera system
-3. Doubling the size of the current turkey pen
+My project is *Safety and Security* for Christine Critters.  It consists of two areas:
+1. Installing a camera system with mobile access
+2. Building a 10' x 10' mew (falcon cage)
  
+I had a fund raiser for this project consisting of a Trini Dinner, which was held on March 17th, 2018, at Norfield Parish Hall at 64 Norfield Road, Weston CT.
 
-I am going to fund this project with the proceeds from a Trini Dinner to be held on March 17th at Norfield Parish Hall at 64 Norfield Road, Weston CT.
+I was aiming for **60** people and almost made that goal.   Thanks to many donations by those who couldn't come, I was able to exceed by fundraising target.  All the proceeds have been handed over to Christine's Critters.
 
-I am aiming for **60** people and so far I have about **25** signed up.  If you would like to attend this dinner, please register using this [Survey Monkey](https://www.surveymonkey.com/r/QK6FXJD) link.
-
-
-If you have not yet decided, here are some more details:
-
-This fundraiser is a dinner of authentic Trini dishes that are all freshly prepared.  After dinner there will be a short birds of prey flight demonstration by Christine of Christine's Critters.
-This event is a fundraiser to RJ Bos' Eagle project which will provide safety and security measures to Christine's Critters, a local 501(c)3 (non-profit) organization here in Weston, CT.
+Here was the menu of the fundraiser:
 
 ## Appetizer
 * Yellow split-peas and spinach fritters.
