@@ -35,7 +35,9 @@ We built a 2x4 frame to test out the ground as we dug because using 4x4s would p
 
 ![testing the foundation](/images/20181201_testframe.jpg)
 
-Once the ground was level we laided down the 4x4s and fastened them together.
+### Day 3: Installing wire under the foundation
+
+Once the ground was level we put down the 4x4s and fastened them together.
 
 ![fastening the foundation](/images/20181201_foundation.jpg)
 
@@ -52,7 +54,7 @@ Mew regulations require all the windows to have bars instead of wire mesh so the
 ![cutting the bars](/images/20181203_cutting_bars.jpg)
 ![assembing the window](/images/20181203_window.jpg)
 
-### Day 2: Fill with pea gravel and frame walls (Saturday, December 8th)
+### Day 3: Fill with pea gravel and frame walls (Saturday, December 8th)
 
 We moved over 1 ton of gravel using buckets because it could not be delivered up the stairs.
 
@@ -61,11 +63,11 @@ We moved over 1 ton of gravel using buckets because it could not be delivered up
 ![moving gravel](/images/20181208_gravel3.jpg)
 ![moving gravel](/images/20181208_gravel4.jpg)
 
-After we got all the gravel up there, we were able to put up the walls.  Here is the end of day 2.
+After we got all the gravel up there, we were able to put up the walls.  Here is the end of day 3.
 
-![end of day 2](/images/20181208_end_of_day2.jpg)
+![end of day 3](/images/20181208_end_of_day2.jpg)
 
-### Day 3: Install panels and siding and roof (Sunday, December 9th)
+### Day 4: Install panels and siding and roof (Sunday, December 9th)
 
 Day three went well.  We built the foundation for the vestibule, put the panels on the roof, and installed the siding and windows.  Here are some pictures:
 
