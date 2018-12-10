@@ -13,7 +13,7 @@ tags: []
 
 # Project Update
 
-Christine's Critters was able to release four of their six turkey's into the wild, so they don't need a bigger turkey pen anymore.  What they do need is an additional mew, which is a cage for a hunting falcon.  So that is a modification to my eagle project.
+Christine's Critters was able to release four of their six turkey's into the wild, so they don't need a bigger turkey pen anymore.  What they do need is an additional mew, which is a cage for a hunting falcon.  So that is a modification to my eagle project. Cristine's Critters would like to get this mew done as soon as possible, so I am starting my project right away.  Due to the late fall temperatures, we are doing as much prep work in our garage as possible, such as building wire mesh frames and building windows.  We can them take these frames to the site to install them.
 
 There are specific regulations that must be followed when building a mew and mew's must be inspected and passed before they can be used.  Here is a highlight of the regulations:
 
@@ -44,10 +44,6 @@ Once the ground was level we put down the 4x4s and fastened them together.
 We put wire under the foundation 4x4s to keep animals out, even mice!  Gross fact: Mice will eat at the birds feet while they sleep (so I am told).
 
 ![testing the foundation](/images/20181201_wire_under_foundation.jpg)
-
-RJ cutting some metal bars for the windows.
-
-![cutting metal bars](/images/20181203_204702.jpg)
 
 Mew regulations require all the windows to have bars instead of wire mesh so the birds won't damage their tail feathers.  Assembling the bars in the window proved to be more difficult than we thought it would.
 
