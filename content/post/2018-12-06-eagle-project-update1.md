@@ -67,4 +67,26 @@ After we got all the gravel up there, we were able to put up the walls.  Here is
 
 ## Day 3: Install panels and siding and roof (Sunday, December 9th)
 
+Day three went well.  We built the foundation for the vestibule, put the panels on the roof, and installed the siding and windows.  Here are some pictures:
+
+![windows](/images/20181209_window1.jpg)
+![windows](/images/20181209_window2.jpg)
+![windows](/images/20181209_window3.jpg)
+![Dave](/images/20181209_dave.jpg)
+
+The mew is pretty much done.  The solid door still needs to be built and the vestibule door still needs to be installed.
+
+## Special Thanks
+
+Thanks so much to Henry Hayden for coming out all three days and Lev Rubin for coming out one of the days.  Also thanks to Dave, a Christine's Critters volunteer, for lending his talents and tools to the project.
+
+## Hours
+
+Here I have tried to record the hours spent on this Eagle project.  
+
+| Date | Description | Adults | Scouts | Hours (total)
+| ---- | ----------- | ------ | ------ | -------------
+|12/2/2018 | Day 1 building the mew | 2 | 2 | 16
+|12/8/2018 | Day 2 building the mew | 3 | 3 | 24
+|12/9/2018 | Day 3 building the mew | 2 | 2 | 20
 
