@@ -72,7 +72,11 @@ Day three went well.  We built the foundation for the vestibule, put the panels 
 ![windows](/images/20181209_window3.jpg)
 ![Dave](/images/20181209_151712.jpg)
 
-The mew is pretty much done.  The solid door still needs to be built and the vestibule door still needs to be installed.
+The mew is pretty much done.  The solid door still needs to be built and the vestibule door still needs to be installed.  
+
+Here is the mew now that it is done.
+
+![done](/images/20181216_done.jpg)
 
 ### Special Thanks
 
@@ -85,6 +89,7 @@ Here I have tried to record the hours spent on this Eagle project.
 | Date | Description | Adults | Scouts | Hours (total)
 | --- | --- | ---: | ---: | ----:
 |4/17/2018 | Fundraiser | 4 | 3 | 42
+|5/15/2018 | Installed Cameras | 1 | 1 | 2
 |11/29/2018 | Cutting wood | 1 | 1 | 4
 |11/30/2018 | Built wire mesh panels | 1 | 1 | 4
 |12/1/2018  | Day 1 Leveling the ground | 2 | 2 | 16
@@ -95,5 +100,14 @@ Here I have tried to record the hours spent on this Eagle project.
 |12/8/2018 | Day 3 Move pea gravel and build frame walls | 3 | 3 | 24
 |12/9/2018 | Day 4 Install siding, windows, and roof mesh | 2 | 2 | 20
 
-That is a total of 138 hours as of 12/10/2018.
+That is a total of 140 hours as of 12/10/2018.
 
+### Finances
+
+|                                     |  
+| ---                                 | :---
+| Fundraiser Revenue                  | $4605
+| Fundraiser Expenses                 | $1150
+| Camera Expenses                     |  $445
+| Mew Expenses                        | $1050
+| Remainder for Christine's Critters  | $1960
