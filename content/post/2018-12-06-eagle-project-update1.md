@@ -84,6 +84,10 @@ Thanks so much to Henry Hayden for coming out all four days and Lev Rubin for co
 
 ### Hours
 
+Picture from official record:
+
+![done](/images/hours.jpg)
+
 Here I have tried to record the hours spent on this Eagle project.  
 
 | Date | Description | Adults | Scouts | Hours (total)
