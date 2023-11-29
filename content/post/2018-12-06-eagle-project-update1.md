@@ -86,7 +86,7 @@ Thanks so much to Henry Hayden for coming out all four days and Lev Rubin for co
 
 Picture from official record:
 
-![done](/images/hours.jpg)
+![hours](/images/hours2.jpg)
 
 Here I have tried to record the hours spent on this Eagle project.  
 
